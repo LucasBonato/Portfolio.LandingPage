@@ -2,7 +2,7 @@
 
 Um portfólio moderno e minimalista desenvolvido para demonstrar projetos e habilidades de um desenvolvedor backend.
 
-## 🚀 Descrição do Projeto
+## Descrição do Projeto
 
 Este portfólio foi construído com foco em uma estética minimalista e profissional, apresentando um tema escuro com acentos roxos. O design enfatiza a precisão e a lógica através de tipografia limpa, animações suaves e transições fluidas.
 
@@ -19,7 +19,7 @@ Este portfólio foi construído com foco em uma estética minimalista e profissi
 - **Experiência Profissional** - Timeline visual com empresas e períodos
 - **Design Responsivo** - Layout adaptável para todos os tamanhos de tela
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 ### Frontend
 - **React 19** - Biblioteca JavaScript para construção de interfaces
@@ -38,7 +38,7 @@ Este portfólio foi construído com foco em uma estética minimalista e profissi
 - **tailwind-merge** - Merge inteligente de classes do Tailwind
 - **class-variance-authority** - Criação de variantes de componentes
 
-## 📦 Instalação
+## Instalação
 
 ```bash
 # Clone o repositório
@@ -64,7 +64,11 @@ npm run build
 npm run preview
 ```
 
-## 👨‍💻 Desenvolvido por
+## Deploy
+
+[Portfolio](https://lucasbonato-portfolio.vercel.app)
+
+## Desenvolvido por
 
 **Lucas Bonato**  
 Backend Developer
